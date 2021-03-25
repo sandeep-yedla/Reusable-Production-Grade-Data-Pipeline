@@ -1,6 +1,6 @@
 
 # Using Apache Airflow to build a S3-to-Redshift DAG
-## Author: Sandeep Yedla
+
 
 ## Introduction
 At it's most basic definition a data pipeline describes “in code” a series of sequential data processing steps. Apache Airflow lets us build Data Pipeline using python code.
